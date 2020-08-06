@@ -1,0 +1,4 @@
+classes= 9
+train  = /workspace/KITTI_data/darknet_type_kitti_labels/manifest.txt
+names = /workspace/KITTI_data/darknet_type_kitti_labels/kittinames.txt
+backup = /workspace/KITTI_data/darknet_type_kitti_labels/yolov3-tiny-kitti-backup
